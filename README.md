@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 3 | 0 | 0 | `2026-08-24` |
+| **4** | 4 | 0 | 0 | `2026-08-24` |
 
 ---
 
@@ -16,7 +16,8 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
 | 0002 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0003 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0003 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
+| 0004 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
