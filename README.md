@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 | `2026-08-24` |
+| **2** | 2 | 0 | 0 | `2026-08-24` |
 
 ---
 
@@ -15,6 +15,7 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
+| 0002 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
