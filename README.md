@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 23 | 0 | 0 | `2026-08-29` |
+| **24** | 24 | 0 | 0 | `2026-08-29` |
 
 ---
 
@@ -15,28 +15,29 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Count all Digits of a Number](./DSA/Linked-List/count-all-digits-of-a-number) | [CPP](./DSA/Linked-List/count-all-digits-of-a-number/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0002 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |
-| 0003 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
-| 0004 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
-| 0005 | [Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `DSA` |
-| 0006 | [Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | 🟢 Easy | `DSA` |
-| 0007 | [Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | 🟢 Easy | `DSA` |
-| 0008 | [Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | 🟢 Easy | `DSA` |
-| 0009 | [Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | 🟢 Easy | `DSA` |
-| 0010 | [Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | 🟢 Easy | `DSA` |
-| 0011 | [Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | 🟢 Easy | `DSA` |
-| 0012 | [Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `DSA` |
-| 0013 | [Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | 🟢 Easy | `DSA` |
-| 0014 | [Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | 🟢 Easy | `DSA` |
-| 0015 | [Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | 🟢 Easy | `DSA` |
-| 0016 | [Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | 🟢 Easy | `DSA` |
-| 0017 | [Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | 🟢 Easy | `DSA` |
-| 0018 | [Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | 🟢 Easy | `DSA` |
-| 0019 | [Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | 🟢 Easy | `DSA` |
-| 0020 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0021 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
-| 0022 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0023 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
+| 0002 | [Count number of odd digits in a number](./DSA/General/count-number-of-odd-digits-in-a-number) | [CPP](./DSA/General/count-number-of-odd-digits-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
+| 0003 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |
+| 0004 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
+| 0005 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
+| 0006 | [Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `DSA` |
+| 0007 | [Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | 🟢 Easy | `DSA` |
+| 0008 | [Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | 🟢 Easy | `DSA` |
+| 0009 | [Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | 🟢 Easy | `DSA` |
+| 0010 | [Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | 🟢 Easy | `DSA` |
+| 0011 | [Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | 🟢 Easy | `DSA` |
+| 0012 | [Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | 🟢 Easy | `DSA` |
+| 0013 | [Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `DSA` |
+| 0014 | [Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | 🟢 Easy | `DSA` |
+| 0015 | [Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | 🟢 Easy | `DSA` |
+| 0016 | [Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | 🟢 Easy | `DSA` |
+| 0017 | [Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | 🟢 Easy | `DSA` |
+| 0018 | [Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | 🟢 Easy | `DSA` |
+| 0019 | [Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | 🟢 Easy | `DSA` |
+| 0020 | [Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | 🟢 Easy | `DSA` |
+| 0021 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0022 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
+| 0023 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0024 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
 
 ---
 
