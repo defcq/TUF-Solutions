@@ -6,36 +6,7 @@
 
 ## 📝 Problem Statement
 
-Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
-
-<pre class="ql-syntax" spellcheck="false">*****
-*&nbsp;&nbsp; *
-*&nbsp;&nbsp; *
-*&nbsp; &nbsp;*
-*****
-</pre>
-
-Print the pattern in the function given to you.
-
-### Example 1
-
-<p>
-
-**Input:** n = 4</p><p>
-
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-N0UVhxnh">
-
-### Example 2
-
-<p>
-
-**Input:** n = 2</p><p>
-
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-K-BENlya">
-
-### Constraints
-
-- 1 <= n <= 100
+Problem description available on TakeUForward (TUF+).
 
 ---
 
