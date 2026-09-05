@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **36** | 34 | 2 | 0 | `2026-09-03` |
+| **37** | 35 | 2 | 0 | `2026-09-05` |
 
 ---
 
@@ -48,8 +48,9 @@
 | 0032 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
 | 0033 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
 | 0034 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0035 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0036 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
+| 0035 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0036 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0037 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
 
 ---
 
